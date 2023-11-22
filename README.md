@@ -1,7 +1,7 @@
 # Sales_forcasting
 Sales forecasting using multiple models - Seasonal Naïve, Holt-Winters, ARIMA, SARIMA and Linear Regression Model
 
-Project Objective
+# Project Objective
 Goal: The goal of this project was to apply various quantitative methods, (i.e. Times Series Models and Causal Models) to forecast the sales of the products available in the dataset.
 
 Perform time series analysis to understand the data and trends
@@ -9,10 +9,12 @@ Use multiple forecasting models on train dataset
 Finally, select the best model to run the test data
 Models covered in the notebook include:
 
-Seasonal Naive Model
+ <b> Seasonal Naive Model</b>
 Holt-Winters Model (Triple Exponential Smoothing)
 ARIMA Model and Seasonal ARIMA Models
 Linear Regression Model
+
+# Conclusion
 We considered different time-series models as well as a regression model for time-series forecasting. 
 From our results, we saw that the linear regression model outperformed the other time-series models. 
 Therefore, for this dataset, we could use a regression model, 
